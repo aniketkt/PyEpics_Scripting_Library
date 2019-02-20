@@ -1,6 +1,6 @@
 
 #APS7BM_utils
-Alan Kastengren, XSD, APS
+#Alan Kastengren, XSD, APS
 
 from setuptools import setup
 
