@@ -7,7 +7,7 @@ from setuptools import setup
 setup(
     # 
     name='APS7BM_utils',
-    url='https://github.com/aps-7bm/Python-Library',
+    url='https://github.com/aps-7bm/PyEpics_Scripting_Library',
     author='Alan Kastengren',
     author_email='',
     # Needed to actually package something
